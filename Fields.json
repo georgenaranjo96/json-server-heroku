@@ -1,0 +1,95 @@
+{
+  "Fields": [
+      {
+    "ShortcutName": "apps.new",
+    "URL": "apps.new",
+    "Company": "Kodular",
+    "Desc": "Start " ,
+    "Category": "Developer"
+  },
+  {
+      "ShortcutName": "gist.new",
+      "URL": "gist.new",
+      "Company": "Github",
+      "Desc": "Open new Github gists.",
+      "Category": "Developer"
+  },
+  {
+      "ShortcutName": "pen.new",
+      "URL": "pen.new",
+      "Company": "CodePen",
+      "Desc": "Prototype your frontend code in CodePen's online development sandbox.",
+      "Category": "Developer"
+  },
+  {
+      "ShortcutName": "flutter.new",
+      "URL": "flutter.new",
+      "Company": "Flutter",
+      "Desc": "Prototype your app using Flutter's online editor.",
+      "Category": "Developer"
+  },
+  {
+      "ShortcutName": "env.new",
+      "URL": "env.new",
+      "Company": "Microsoft Visual Studio",
+      "Desc": "Create a new Visual Studio codespace for your project.",
+       "Category": "Developer"
+  },
+  {
+      "ShortcutName": "matlab.new",
+      "URL": "matlab.new",
+      "Company": "MathWorks",
+      "Desc": "Open MATLAB in your browser and start programming.",
+      "Category": "Developer"
+  },
+  {
+      "ShortcutName": "no.de",
+      "URL": "no.de",
+      "Company": "Nodejs",
+      "Desc": "Takes you to Nodejs website, useful to install node quickly\t\n",
+      "Category": "Developer"
+  },
+  {
+      "ShortcutName": "sql.new",
+      "URL": "sql.new",
+      "Company": "SeekWell",
+      "Desc": "Write SQL queries for your data in other applications.",
+      "Category": "Developer"
+  },
+  {
+      "ShortcutName": "deploy.new",
+      "URL": "deploy.new",
+      "Company": "Vercel",
+      "Desc": "Import your frontend projects to Vercel for preview and deployment.",
+      "Category": "Developer"
+  },
+  {
+      "ShortcutName": "repo.new",
+      "URL": "repo.new",
+      "Company": "Github",
+      "Desc": "Open new Github repositories.",
+      "Category": "Developer"
+  },
+  {
+      "ShortcutName": "glitch.new",
+      "URL": "glitch.new",
+      "Company": "Glitch",
+      "Desc": "Code full-stack apps in your browser and collaborate live",
+      "Category": "Developer"
+  },
+  {
+      "ShortcutName": "playground.new",
+      "URL": "playground.new",
+      "Company": "RunKit",
+      "Desc": "Prototype and launch your APIs using RunKit.",
+      "Category": "Developer"
+  },
+  {
+      "ShortcutName": "script.new",
+      "URL": "script.new",
+      "Company": "Google AppScript",
+      "Desc": "Create and share new editor functions using Google App Script.",
+      "Category": "Developer"
+  }
+  ]
+}
